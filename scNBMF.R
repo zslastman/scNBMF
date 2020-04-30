@@ -6,7 +6,7 @@
 
 library(tensorflow)
 library(edgeR)
-library(igragh)
+library(igraph)
 library(Rtsne)
 
 tf$logging$set_verbosity(tf$logging$INFO)
